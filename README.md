@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python, SQL, CQL, JS, etc.**
+  🦄 Linguagens: **SQL, CQL, Java, Python(Django).**
 </p>
 
 <p align="left">
